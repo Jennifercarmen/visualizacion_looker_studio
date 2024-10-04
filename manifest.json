@@ -1,0 +1,11 @@
+{
+    "name": "Custom Combo Chart",
+    "description": "Bar and Line Chart",
+    "resources": {
+      "js": [
+        "https://cdn.jsdelivr.net/npm/chart.js"
+      ]
+    },
+    "devMode": true
+  }
+  
