@@ -6,6 +6,6 @@
         "https://cdn.jsdelivr.net/npm/chart.js"
       ]
     },
-    "devMode": true
+    "devMode": false
   }
   
